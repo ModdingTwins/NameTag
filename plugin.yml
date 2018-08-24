@@ -1,7 +1,7 @@
 ---
 name: NameTag
 version: 1.0
-api: [3.0.0, 4.0.0]
+api: [3.0.0, 3.0.1, 4.0.0]
 author: MTwins
 main: fixer\Loader
 description: "Fixes nametag bug in mcbe 1.5.x"
